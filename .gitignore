@@ -8,6 +8,7 @@ app/__pycache__/microblog.cpython-37.pyc
 app/__pycache__/models.cpython-37.pyc
 app/__pycache__/routes.cpython-37.pyc
 logs/microblog.log
+migrations/*
 migrations/README
 migrations/alembic.ini
 migrations/env.py

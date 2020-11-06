@@ -22,6 +22,6 @@ export POSTGRES_PW="emp@\$13%loyee^"
 export POSTGRES_DB="employee_db"
 
 flask db init
-flask db migrate -m "users table"
+flask db migrate -m "followers"
 flask db upgrade
 
