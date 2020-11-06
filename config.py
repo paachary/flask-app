@@ -20,3 +20,4 @@ class Config(object):
 
     SQLALCHEMY_DATABASE_URI = DB_URL
     SQLALCHEMY_TRACK_MODIFICATIONS = False # silence the deprecation warning
+    POSTS_PER_PAGE = 25
